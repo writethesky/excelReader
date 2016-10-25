@@ -1,0 +1,24 @@
+{
+    "name": "writethesky/php-excel-reader",
+    "description": "the PHPExcelReaderk",
+    "type": "project",
+    "keywords": [
+        "PHPExcelReader",
+        "thinkphp"
+    ],
+    "homepage": "http://xxx.cn/",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "writethesky",
+            "email": "writethesky@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"writethesky\\PHPExcelReader\\": "PHPExcelReader/"}
+    },
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "minimum-stability": "stable"
+}
