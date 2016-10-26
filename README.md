@@ -1,12 +1,11 @@
 **PHPExcelReader** 是一个轻量级的excel文件读取类, 支持 CSV, XLS, XLSX 文件
 
-### Requirements:
+### 依赖:
 *  PHP 5.3.0+
 *  PHP 必须开启支持Zip文件处理 (see http://php.net/manual/en/zip.installation.php)
 
-### Usage:
+### 例子:
 
-eg:
 
 	<?php
 		use writethesky\PHPExcelReader\PHPExcelReader;
